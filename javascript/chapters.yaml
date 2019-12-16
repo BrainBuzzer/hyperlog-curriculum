@@ -1,5 +1,10 @@
 -
-  - name: "JavaScript Intro"
-    slug: "intro"
-  - name: "Dom Manipulation"
-    slug: "dom"
+  - name: JavaScript Intro
+    slug: intro
+    lessons:
+      - getting-started.md
+      - second-chapter.md
+  - name: Dom Manipulation
+    slug: dom
+    lessons:
+      - dom.md
